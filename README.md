@@ -30,9 +30,52 @@ Organizations rely on software engineering to transition from traditional proces
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+The Birth of Software Engineering (1968) – NATO Conference
+
+Before the 1960s, software development was often informal and lacked structured processes. However, as systems grew more complex, inefficiencies and failures became common, leading to what was called the "software crisis."
+In 1968, NATO organized the first Software Engineering Conference, where the term software engineering was formally introduced. This event emphasized the need for disciplined approaches, structured programming, and formal methodologies.
+The Rise of Structured Programming (1970s–1980s)
+
+In response to the software crisis, structured programming gained traction, emphasizing modularity, clarity, and maintainability.
+Notable contributions came from Edsger Dijkstra, who advocated for structured programming to replace unstructured coding practices, like the excessive use of GOTO statements.
+Languages like Pascal, C, and Ada were developed during this period, supporting structured and modular programming paradigms.
+The Agile Revolution (2001 – Present)
+
+In the late 20th century, traditional software development models like Waterfall were criticized for being rigid and slow in adapting to change.
+In 2001, a group of software developers introduced the Agile Manifesto, advocating for iterative development, customer collaboration, and responsiveness to change.
+Agile methodologies, such as Scrum and Kanban, have since dominated modern software development, emphasizing flexibility, continuous delivery, and user feedback.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+Planning
+
+This phase involves defining project objectives, scope, feasibility, risks, and resource allocation.
+Stakeholders set timelines, budget estimates, and key deliverables.
+Requirement Analysis
+
+Developers and business analysts gather and document user needs.
+Functional and non-functional requirements are defined, ensuring alignment with business goals.
+Design
+
+Architects and designers create blueprints for the system, including software architecture, data models, and user interfaces.
+This phase also defines system components, technology stack, and security measures.
+Implementation (Coding)
+
+Developers write the actual code based on the design specifications.
+This phase follows best coding practices, version control, and modular development.
+Testing
+
+The software undergoes rigorous testing (unit, integration, system, and user acceptance testing) to identify and fix bugs.
+The goal is to ensure quality, performance, and security before deployment.
+Deployment
+
+The tested software is released to production, making it available for end-users.
+Deployment strategies include phased rollout, continuous deployment, or full release.
+Maintenance and Support
+
+Developers provide ongoing updates, bug fixes, and performance improvements.
+This phase ensures the software remains functional, secure, and relevant over time.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
